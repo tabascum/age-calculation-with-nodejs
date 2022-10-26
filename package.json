@@ -1,0 +1,19 @@
+{
+  "name": "dayjs-exercice",
+  "version": "1.0.0",
+  "description": "exercise to use libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dayjs",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "tabascum",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.6"
+  }
+}
